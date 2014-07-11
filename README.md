@@ -26,7 +26,7 @@ Some good tutorial links for learning git
 Class Links
 -----------
 
-* Hank Yates JS Book: [hankyates.github.io/F2-javascript-textbook/pre_course_work/pre_course_work.html](Hank Yates class book)
+* Hank Yates JS Book: [hankyates.github.io/F2-javascript-textbook/](Hank Yates class book)
 * Class git repo: [https://github.com/codefellows/sea-c16-javascript](sea-C16-Javascript)
 * Class chat room: [https://gitter.im/codefellows/sea-c16-javascript](At Gitter)
 
