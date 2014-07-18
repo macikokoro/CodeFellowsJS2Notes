@@ -11,6 +11,7 @@ Create a repo in github.
 Cloning an existing repo.
 
 * $ git clone git://github.com/macikokoro/CodeFellowsJS2Notes.git
+
 Create a repo on the command line.
 
 * touch README.md
