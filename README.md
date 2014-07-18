@@ -6,7 +6,10 @@ The Git part
 Create a repo in github.
 
 * Login into account.
-* click the + on the top right corner of the page and then choose New Repository.
+* Click the + on the top right corner of the page and then choose New Repository.
+* Choose public or private.
+* Initialize with a README.
+* Click Create Repository.
 
 Cloning an existing repo.
 
