@@ -3,6 +3,14 @@ CodeFellows JS 02 Class Notes
 
 The Git part
 ------------
+Create a repo in github.
+
+* Login into account.
+* click the + on the top right corner of the page and then choose New Repository.
+
+Cloning an existing repo.
+
+* $ git clone git://github.com/macikokoro/CodeFellowsJS2Notes.git
 Create a repo on the command line.
 
 * touch README.md
