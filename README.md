@@ -35,6 +35,10 @@ Adding and staging
 * git checkout -- filename.js //change back to last commit
 * git rm flename.js
 
+Branching
+
+* git branch -d branchName //delete branch
+
 Some good tutorial links for learning git
 -----------------------------------------
 
