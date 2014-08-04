@@ -29,6 +29,10 @@ Push an existing repository from the command line
 * git remote add origin https://github.com/macikokoro/CodeFellowsJS2Notes.git
 * git push -u origin master
 
+Adding and staging
+
+* git reset/macikokoro/filename.js
+
 Some good tutorial links for learning git
 -----------------------------------------
 
