@@ -32,7 +32,7 @@ Push an existing repository from the command line
 Adding and staging
 
 * git reset/macikokoro/filename.js //unstages the file 
-* git checkout -- octocat.txt //change back to last commit
+* git checkout -- filename.js //change back to last commit
 
 Some good tutorial links for learning git
 -----------------------------------------
