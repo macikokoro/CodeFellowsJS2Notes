@@ -13,7 +13,7 @@ Create a repo in github.
 
 Cloning an existing repo.
 
-* $ git clone git://github.com/macikokoro/CodeFellowsJS2Notes.git
+* git clone git://github.com/macikokoro/CodeFellowsJS2Notes.git
 
 Create a repo on the command line.
 
@@ -33,6 +33,7 @@ Adding and staging
 
 * git reset/macikokoro/filename.js //unstages the file 
 * git checkout -- filename.js //change back to last commit
+* git rm flename.js
 
 Some good tutorial links for learning git
 -----------------------------------------
