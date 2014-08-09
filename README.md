@@ -36,6 +36,7 @@ Adding and staging
 * git rm flename.js
 
 Branching
+* git clone -b my-branch git@github.com:user/myproject.git // clone a branch
 
 * git branch -d branchName //delete branch
 
