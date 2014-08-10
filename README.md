@@ -31,7 +31,7 @@ Push an existing repository from the command line
 
 Adding and staging
 
-* git reset/macikokoro/filename.js //unstages the file 
+* git reset filename.js //unstages the file 
 * git checkout -- filename.js //change back to last commit
 * git rm flename.js
 
